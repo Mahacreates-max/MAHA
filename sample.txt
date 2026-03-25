@@ -1,0 +1,8 @@
+Hello GitHub!
+
+My name is Maha Lakshmi.
+This is my first file uploaded to GitHub.
+
+I am learning how to create repositories and upload files.
+
+Thank you!
